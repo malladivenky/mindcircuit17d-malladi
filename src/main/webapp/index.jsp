@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body style="background-color:purple;">
+<body style="background-color:green;">
 
 <h1>WELCOME TO MALLADI JENKINS PIPELINE WORLD </h1>
 
